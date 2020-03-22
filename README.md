@@ -1,2 +1,2 @@
-# LabDataStruc
+# DataStructure
 GreenLight!
